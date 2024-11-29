@@ -6,4 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-还没想好些什么
+还没想好写什么
